@@ -1,0 +1,17 @@
+1. Load the dataset 
+
+2. View full scene dictionary of v1.0-mini dataset
+
+3. Access a Sence (sence 2) and print basic information about that like name, number of samples, tokens as well as sensor data filenames
+
+4. Print Sensor data tokens for first sample in scene 2
+
+5. Verify and check the sensor data tocken with sample tocken and file name 
+
+6. Access a Sample meta data from camera fornt
+
+7. Render the image without annotations
+
+8. Render the image with annotations
+
+9. Check any sample object category distrubution, data balance, interpretation and finially hazardous objects observation if need shows warnning. 
